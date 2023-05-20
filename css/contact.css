@@ -1,0 +1,88 @@
+
+/** start form **/
+body{
+    background-color: #999;
+   
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+   color: #333;
+   font-weight: 400px;
+   font-size: 45px;
+ 
+}
+
+
+.container{
+   max-width:  500px !important;
+   
+   margin : 50px auto;
+   padding: 0;
+   font-size: 18px;
+  
+   
+  
+
+}
+.formcontact{
+    margin-bottom: 0;
+    position: relative;
+}
+
+.asterisk{
+    float: right;
+    height: 0;
+   margin: 0;
+   color: #852921;
+   font-size: 25px;
+ 
+position: relative;
+left: 0px;
+bottom: 45px;
+   
+}
+
+form input,
+form textarea{
+    margin-bottom: 5px;
+  
+    
+   
+}
+
+form textarea{
+    height: 300px;
+    margin-top: 0px;
+}
+.form-control{
+    padding-left: 32px;
+    background-color:aliceblue;
+    color: #999;
+    
+}
+form i {
+    font-weight: 400;
+    color: #918fa5;
+
+    float: left;
+    height: 0;
+    position: relative;
+    bottom: auto;
+    top: 10px;
+    left: 5px;
+    font-size: 15px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fa-paper-plane{
+    color:aliceblue;
+
+}
+.btn-success{
+    padding-left: 23px;
+
+}
+.alert-danger{
+    margin-bottom: 3px;
+    padding: 5px;
+   
+}
